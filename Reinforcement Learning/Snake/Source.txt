@@ -1,0 +1,6 @@
+Deep Q learning for trading
+
+https://github.com/llSourcell/Q-Learning-for-Trading/blob/master/agent.py
+
+https://github.com/Atul-Acharya-17/Deep-Q-Learning-Snake/blob/main/q_learning/agent/agent.py
+
